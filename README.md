@@ -64,3 +64,16 @@ End Product: A consolidated spreadsheet that includes:
 ### Final Deliverables:
 - **A refined, [cleaned dataset](https://github.com/Digital-Naeem/Accenture-Data-Analytics-And-Visualization-virtual-Internship/blob/main/Cleaned%20Dataset.xlsx), ready** for further analysis.
 - Identification of the **top 5 content categories with the largest popularity**, providing actionable insights.
+
+## Task - 3
+### Data Visualization and Storytelling
+- Create a PowerPoint presentation following the provided template.
+
+**Include charts such as:**
+>- [Pie Chart]
+>- [Bar Chart]
+- Powerpoint Presentation : [PPT]
+
+## Task - 4
+ **Present to the Client:**
+- Present your powerpoint presentation to the client and deliver the insights of your analysis.
