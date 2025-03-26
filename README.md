@@ -3,7 +3,8 @@ This repository showcases my work on Accenture's Data Analytics virtual experien
 # Task 1 -
 ### Understanding the Project: 
 **A data analyst bridges the gap between business insights and raw data.**
-- Mae Mulligan, a Managing Director at Accenture, is spearheading the collaboration with Social Buzz as the client lead. After analyzing Social Buzz's project brief, Mae has brought together a diverse team of Accenture specialists to tackle the project effectively. A project kick-off meeting with Accenture's internal team has been scheduled for tomorrow morning.
+- Mae Mulligan, Managing Director at Accenture, is leading the collaboration with Social Buzz and has analyzed the project brief to align team efforts.
+- A project kick-off meeting with Accenture's internal team is scheduled for tomorrow morning to initiate the work efficiently.
 
 ### About Social Buzz: 
 Social Buzz is a rapidly growing enterprise facing challenges due to their scaled operations. They currently lack sufficient internal resources to manage their growth effectively. *About Client* : [Social Buzz](https://github.com/Digital-Naeem/Accenture-Data-Analytics-And-Visualization-virtual-Internship/blob/main/Data_Analytics%20Brief.pdf)
