@@ -72,7 +72,7 @@ End Product: A consolidated spreadsheet that includes:
 **Include charts such as:**
 >- [Pie Chart](Images/10.jpeg)
 >- [Bar Chart](Images/9.jpeg)
-- Powerpoint Presentation : [PPT]
+- Powerpoint Presentation : [PPT](https://github.com/Digital-Naeem/Build-Expertise-in-Data-Analytics-and-Visualization-with-Accenture-s-virtual-Internship/blob/main/Accenture%20project%20task%204.pptx)
 
 ## Task - 4
  **Present to the Client:**
