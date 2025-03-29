@@ -1,6 +1,13 @@
 # Accenture-Data-Analytics-And-Visualization-virtual-Internship
-This repository showcases my work on Accenture's Data Analytics virtual experience with Forage, aiding "Social Buzz," a global unicorn company, in harnessing vast data through dashboards and presentations.
-## Task 1 -
+This repository showcases my work on Accenture's Data Analytics virtual experience with Forage, aiding "Social Buzz," a global unicorn company, in harnessing vast data through dashboards and presentations. 
+
+[video](https://github.com/user-attachments/assets/60ae451b-2a81-4d45-88bb-c1d5426499aa)
+
+-[pptx](https://github.com/user-attachments/files/19517185/Accenture.project.task.4.pptx) And
+-[pdf](https://github.com/user-attachments/files/19517210/Accenture.project.pdf.task.4.pdf)
+## Certificate:
+- [certificate](https://github.com/user-attachments/files/19517236/accenture.project.Certificate.pdf)
+## Task 1 
 ### Understanding the Project: 
 **A data analyst bridges the gap between business insights and raw data.**
 - Mae Mulligan, Managing Director at Accenture, is leading the collaboration with Social Buzz and has analyzed the project brief to align team efforts.
@@ -72,8 +79,12 @@ End Product: A consolidated spreadsheet that includes:
 **Include charts such as:**
 >- [Pie Chart](Images/10.jpeg)
 >- [Bar Chart](Images/9.jpeg)
-- Powerpoint Presentation : [PPT](https://github.com/Digital-Naeem/Build-Expertise-in-Data-Analytics-and-Visualization-with-Accenture-s-virtual-Internship/blob/main/Accenture%20project%20task%204.pptx)
-
+- Powerpoint Presentation : [PPT](https://github.com/user-attachments/files/19517185/Accenture.project.task.4.pptx) And
+                           -[PDF](https://github.com/user-attachments/files/19517210/Accenture.project.pdf.task.4.pdf)
+- [video]()
+  
 ## Task - 4
  **Present to the Client:**
 - Present your powerpoint presentation to the client and deliver the insights of your analysis.
+  
+
