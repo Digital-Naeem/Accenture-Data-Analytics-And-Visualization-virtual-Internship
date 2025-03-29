@@ -70,8 +70,8 @@ End Product: A consolidated spreadsheet that includes:
 - Create a PowerPoint presentation following the provided template.
 
 **Include charts such as:**
->- [Pie Chart]
->- [Bar Chart]
+>- [Pie Chart](Images/10.jpeg)
+>- [Bar Chart](Images/9.jpeg)
 - Powerpoint Presentation : [PPT]
 
 ## Task - 4
